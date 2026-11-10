@@ -1,0 +1,9 @@
+{
+  "model": "openai/whisper-small",
+  "language": "indonesian",
+  "num_beams": 5,
+  "wer": 0.1346153846153846,
+  "cer": 0.03493862134088763,
+  "real_time_factor_cpu": 0.7823344385655526,
+  "note": "pretrained, not stored here"
+}

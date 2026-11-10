@@ -1,0 +1,32 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+tqdm
+ipykernel
+ipywidgets
+
+# Audio
+librosa
+soundfile
+audioread
+PyWavelets
+av # decodes webm/opus (cough dataset) without a system ffmpeg
+
+# Data access (public datasets, no API keys)
+gdown
+kagglehub
+datasets
+
+# Deep learning / pretrained models
+torch # CPU build is enough
+transformers
+jiwer # WER / CER
+speechbrain # Project 2: FastSpeech2 + HiFi-GAN, ECAPA-TDNN
+coqui-tts[codec] # Project 2: FastPitch
+gruut # phonemizer used by Coqui FastPitch

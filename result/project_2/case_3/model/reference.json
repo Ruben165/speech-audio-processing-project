@@ -1,0 +1,21 @@
+{
+  "models": {
+    "FastPitch": "tts_models/en/ljspeech/fast_pitch",
+    "FastSpeech2": "speechbrain/tts-fastspeech2-ljspeech",
+    "vocoder": "speechbrain/tts-hifigan-ljspeech"
+  },
+  "fastest": "FastPitch",
+  "metrics": {
+    "FastPitch": {
+      "audio_s": 9.369977324263038,
+      "synth_s": 1.5902023999997255,
+      "rtf": 0.1697125131649982
+    },
+    "FastSpeech2+HiFiGAN": {
+      "audio_s": 7.952834467120182,
+      "synth_s": 5.577354900000046,
+      "rtf": 0.7013040348141024
+    }
+  },
+  "note": "pretrained, not stored here"
+}

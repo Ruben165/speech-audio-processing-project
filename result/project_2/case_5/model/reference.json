@@ -1,0 +1,12 @@
+{
+  "model": "speechbrain/spkrec-ecapa-voxceleb",
+  "sample_rate": 16000,
+  "metric": "cosine similarity",
+  "threshold": 0.27213314175605774,
+  "dev_eer": 0.05086285195277018,
+  "test_eer": 0.007226738934055954,
+  "test_auc": 0.9998710676658107,
+  "test_acc_at_dev_threshold": 0.975609756097561,
+  "test_trials": 2214,
+  "note": "pretrained, cached in data/project_2/case_5; not stored here"
+}

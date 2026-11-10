@@ -1,0 +1,10 @@
+{
+  "backbone": "facebook/wav2vec2-base",
+  "note": "frozen pretrained backbone, downloaded from HuggingFace; not stored here",
+  "layer": 7,
+  "C": 0.01,
+  "cv_acc": 0.7216666666666667,
+  "test_acc": 0.7375,
+  "test_f1_macro": 0.7371404250322883,
+  "test_roc_auc": 0.8904166666666667
+}

@@ -1,0 +1,18 @@
+{
+  "model": "facebook/mms-tts-ind",
+  "architecture": "VITS",
+  "sampling_rate": 16000,
+  "metrics": {
+    "stt": {
+      "audio_s": 14.0,
+      "synth_s": 4.234429000000091,
+      "rtf": 0.3024592142857208
+    },
+    "tts": {
+      "audio_s": 11.376,
+      "synth_s": 3.5021906000001763,
+      "rtf": 0.3078578234880605
+    }
+  },
+  "note": "pretrained, cached in data/project_2/case_4; not stored here"
+}

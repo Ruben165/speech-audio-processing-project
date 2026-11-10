@@ -1,0 +1,7 @@
+# Downloaded / cached data (see base.Case)
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

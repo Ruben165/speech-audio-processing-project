@@ -1,0 +1,17 @@
+{
+  "width": 16,
+  "classes": [
+    "COVID-19",
+    "healthy",
+    "symptomatic"
+  ],
+  "mean": -47.50457000732422,
+  "std": 21.242279052734375,
+  "sr": 16000,
+  "seconds": 8,
+  "n_mels": 64,
+  "hop": 256,
+  "val_acc": 0.4666666666666667,
+  "test_acc": 0.3888888888888889,
+  "train_seconds": 81.66478740000002
+}
